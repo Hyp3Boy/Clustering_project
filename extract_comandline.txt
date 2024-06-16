@@ -1,0 +1,30 @@
+
+cd video_features
+
+python main.py \
+    feature_type=r21d \
+    show_pred=false\
+    device=mps\
+    on_extraction=save_numpy\
+    file_with_video_paths=../file_paths_train.txt\
+    output_path=../feature_results/train
+
+python main.py \
+    feature_type=r21d \
+    model_name="r2plus1d_34_32_ig65m_ft_kinetics" \
+    show_pred=false\
+    device=mps\
+    on_extraction=save_numpy\
+    file_with_video_paths=../file_paths_train.txt\
+    output_path=../feature_results/train
+
+
+python main.py \
+    feature_type=r21d \
+    model_name="r2plus1d_34_8_ig65m_ft_kinetics" \
+    show_pred=false\
+    device=mps\
+    on_extraction=save_numpy\
+    file_with_video_paths=../file_paths_train.txt\
+    output_path=../feature_results/train
+
