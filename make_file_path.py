@@ -15,17 +15,17 @@ def generate_paths_from_csv(csv_file_path, output_txt_path):
 
 
 # Especifica la ruta a tu archivo CSV y la ruta de salida del archivo TXT
-csv_file_path = "./data/train_subset_10.csv"
+csv_file_path = "./csv_url/train_subset_10.csv"
 output_txt_path = "./file_paths_train.txt"
 
 generate_paths_from_csv(csv_file_path, output_txt_path)
 
-csv_file_path = "./data/test_subset_10.csv"
+csv_file_path = "./csv_url/test_subset_10.csv"
 output_txt_path = "./file_paths_test.txt"
 
 generate_paths_from_csv(csv_file_path, output_txt_path)
 
-csv_file_path = "./data/val_subset_10.csv"
+csv_file_path = "./csv_url/val_subset_10.csv"
 output_txt_path = "./file_paths_val.txt"
 
 generate_paths_from_csv(csv_file_path, output_txt_path)
