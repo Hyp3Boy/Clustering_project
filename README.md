@@ -89,7 +89,7 @@ We experimented with different configurations to find the best parameters for cl
 
 ## 📜 References
 - [S3D: Single Shot multi-Span Detector](https://arxiv.org/abs/1711.11248)
-- [Gaussian Mixture Models](https://arxiv.org/abs/2008.03679](https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7488-4_196))
+- [Gaussian Mixture Models](https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7488-4_196)
 - [UMAP: Uniform Manifold Approximation and Projection](https://arxiv.org/abs/1802.03426)
 - [k-means++: The advantages of careful seeding](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf)
 
