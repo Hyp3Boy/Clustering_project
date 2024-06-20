@@ -4,7 +4,7 @@
 Welcome to our project on **Video-Based Human Action Recognition**! In this project, we analyze a dataset of videos depicting various human activities. Our goal is to extract relevant features, reduce dimensionality using advanced techniques, and apply clustering methods to group the videos by the actions performed.
 
 ## 👥 Authors
-- **Arbulú Pastor Josue** (202210025)
+- **Josue Arbulú Pastor** (202210025)
 - **Lama Carrasco Miguel** (201510170)
 - **Santamaria Gutierrez Aaron** (202010399)
 - **Chavez Zapata Lenin** (202210090)
