@@ -1,4 +1,4 @@
-# 🎥 Video-Based Human Action Recognition Project
+# 🎥 Video-Based Human Action Recognition Clustering
 
 ## 🚀 Introduction
 Welcome to our project on **Video-Based Human Action Recognition**! In this project, we analyze a dataset of videos depicting various human activities. Our goal is to extract relevant features, reduce dimensionality using advanced techniques, and apply clustering methods to group the videos by the actions performed.
